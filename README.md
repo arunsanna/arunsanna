@@ -28,9 +28,34 @@ I'm **Arun Sanna** – a passionate architect with extensive experience in build
 
 ## 💻 Projects & Portfolio
 
+
+### Project: Enterprise Platform Transformation
+**Goal:**
+- Lead cross-functional teams to deliver high-impact solutions for the **Department of Defense (DoD)** and the **Centers for Medicare & Medicaid Services (CMS)**.
+
+**Expanded Context:**
+- **Department of Defense (DoD):**
+  Tasked with national security and military operations, the DoD requires robust, secure, and scalable systems to support mission-critical applications—from defense strategies to emergency response operations.
+- **Centers for Medicare & Medicaid Services (CMS):**
+  Responsible for administering major federal healthcare programs, CMS needs efficient, secure platforms to manage and modernize services for millions of beneficiaries, ensuring both compliance and rapid deployment.
+
+**Outcomes:**
+- Highest conributor and Built largest enterpise platform as service in Department for Defense and onboarded 300 Apps and their supporting DevSecOps Services.
+- 90 Day Modernization plan and executed on 10 apps in parallel and took them live in 85 Days including ATO for app.
+- Pioneered rapid, mission-critical deployments during high-stakes operations.
+- Modernized legacy systems, building robust, secure platforms for large-scale applications.
+
+**Numbers:**
+- Coordinated efforts that supported the evacuation of **120,000+ individuals** during Operation Allies Refuge.
+- Migrated **10 Apps 50+ microservices** within **90 days**.
+- Boosted team efficiency by **50%**.
+- Continous delivery from months to when every you are ready lets do it today evening.
+
+---
 ### Project: Cloud Modernization
 **Goal:**
 - Automate and modernize cloud infrastructure to create scalable, secure environments.
+- Build Rapid Modernization plans
 
 **Outcomes:**
 - Established robust systems using Terraform, AWS CDK, and Kubernetes.
@@ -39,7 +64,7 @@ I'm **Arun Sanna** – a passionate architect with extensive experience in build
 **Numbers:**
 - Transitioned **300+ enterprise applications**.
 - Achieved **99.99% uptime**.
-- Reduced operational costs by **35%**.
+- Reduced operational costs by **45%**.
 
 ---
 
@@ -57,27 +82,6 @@ I'm **Arun Sanna** – a passionate architect with extensive experience in build
 - Accelerated deployment frequency from **months to days**.
 - Reduced manual compliance efforts by **70%**.
 - Enhanced ML training efficiency, contributing to a **30% improvement** in overall system performance.
-
----
-
-### Project: Enterprise Platform Transformation
-**Goal:**
-- Lead cross-functional teams to deliver high-impact solutions for the **Department of Defense (DoD)** and the **Centers for Medicare & Medicaid Services (CMS)**.
-
-**Expanded Context:**
-- **Department of Defense (DoD):**
-  Tasked with national security and military operations, the DoD requires robust, secure, and scalable systems to support mission-critical applications—from defense strategies to emergency response operations.
-- **Centers for Medicare & Medicaid Services (CMS):**
-  Responsible for administering major federal healthcare programs, CMS needs efficient, secure platforms to manage and modernize services for millions of beneficiaries, ensuring both compliance and rapid deployment.
-
-**Outcomes:**
-- Pioneered rapid, mission-critical deployments during high-stakes operations.
-- Modernized legacy systems, building robust, secure platforms for large-scale applications.
-
-**Numbers:**
-- Coordinated efforts that supported the evacuation of **120,000+ individuals** during Operation Allies Refuge.
-- Migrated **50+ microservices** within **90 days**.
-- Boosted team efficiency by **30%**.
 
 ---
 
