@@ -1,4 +1,4 @@
-# 🚀 Arun Sanna
+# 🚀 Arun Sanna's Digital Portfolio
 
 **Chief Architect | Cloud, DevSecOps, and AI Innovator**
 
@@ -35,21 +35,18 @@ I'm **Arun Sanna** – a passionate architect with extensive experience in build
 
 **Expanded Context:**
 - **Department of Defense (DoD):**
-  Tasked with national security and military operations, the DoD requires robust, secure, and scalable systems to support mission-critical applications—from defense strategies to emergency response operations.
+  Tasked with national security and military operations, the DoD requires robust, secure, and scalable systems to support mission-critical applications—from defense strategies to emergency response operations. [Learn more](https://p1.dso.mil) and [Partybus](https://p1.dso.mil/partybus)
 - **Centers for Medicare & Medicaid Services (CMS):**
   Responsible for administering major federal healthcare programs, CMS needs efficient, secure platforms to manage and modernize services for millions of beneficiaries, ensuring both compliance and rapid deployment.
 
 **Outcomes:**
-- Highest conributor and Built largest enterpise platform as service in Department for Defense and onboarded 300 Apps and their supporting DevSecOps Services.
-- 90 Day Modernization plan and executed on 10 apps in parallel and took them live in 85 Days including ATO for app.
 - Pioneered rapid, mission-critical deployments during high-stakes operations.
 - Modernized legacy systems, building robust, secure platforms for large-scale applications.
 
 **Numbers:**
 - Coordinated efforts that supported the evacuation of **120,000+ individuals** during Operation Allies Refuge.
-- Migrated **10 Apps 50+ microservices** within **90 days**.
+- Migrated **50+ microservices** within **90 days**.
 - Boosted team efficiency by **50%**.
-- Continous delivery from months to when every you are ready lets do it today evening.
 
 ---
 ### Project: Cloud Modernization
