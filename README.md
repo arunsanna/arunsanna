@@ -1,4 +1,4 @@
-# 🚀 CodeCraft Chronicles: Arun Sanna's Digital Portfolio
+# 🚀 Arun Sanna
 
 **Chief Architect | Cloud, DevSecOps, and AI Innovator**
 
