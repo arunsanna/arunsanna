@@ -1,6 +1,7 @@
 # 🚀 Arun Sanna's Digital Portfolio
 
-**Chief Architect | Cloud, DevSecOps, and AI Innovator**
+**Enterpise AI Architect**
+**Forward Deployed Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square)](https://www.linkedin.com/in/arunchowdary/)
 [![GitHub](https://img.shields.io/badge/GitHub-arunsanna-informational?style=flat-square)](https://www.github.com/arunsanna)
