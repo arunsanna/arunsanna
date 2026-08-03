@@ -62,10 +62,22 @@ Cloud solutions architect for Citibank (PCI-DSS, fraud detection, real-time even
 
 ## 📝 Publications & Research
 
-- **Cross-LLM Generalization of Behavioral Backdoor Detection in AI Agent Supply Chains** — JCSTS (peer-reviewed), [arXiv:2511.19874](https://arxiv.org/abs/2511.19874)
-- **Infrastructure-Layer Attack Surface Reduction for MCP-Based AI Agents** — InnoAI 2026
-- **Detecting False Assurance in Cloud Control Inheritance** — IEEE CLOUD 2026 (Regular Full Paper)
-- Multiple trade publications on DevOps.com and Techstrong.ai
+**Peer-Reviewed:**
+- **Detecting False Assurance in Cloud Control Inheritance Using a Federated Compliance Integrity Graph** - IEEE CLOUD 2026 (Regular Full Paper, Cloud Security & Zero Trust session). Single author. DOI, pp. 473-482.
+- **Cross-LLM Generalization of Behavioral Backdoor Detection in AI Agent Supply Chains** - Journal of Computer Science and Technology Studies (JCSTS), peer-reviewed. [arXiv:2511.19874](https://arxiv.org/abs/2511.19874)
+
+**Conference Talks:**
+- **Infrastructure-Layer Attack Surface Reduction for MCP-Based AI Agents** - InnoAI 2026 (Thailand). Speaker and session chair.
+- **AI-Powered FDA Inspection Data Extraction** - 13th Annual FDA Scientific Computing Days 2026.
+- **DevSecOps for Mission-Critical Systems** - AFCEA Alamo ACE 2023.
+
+**Trade Publications:**
+- **Context Engineering: The Next Frontier in AI-Driven DevOps** - DevOps.com (6.5M+ monthly visitors).
+- **The Orchestration Layer: Why Your AI Agent Needs a Nervous System** - Techstrong.ai.
+- **Cross-LLM Security for AI Agent Supply Chains** - DevOps.com.
+- **AWS Sage: Secure MCP Server for AI Agents** - DevOps.com.
+
+*5 additional papers/articles in progress for 2026.*
 
 ---
 
