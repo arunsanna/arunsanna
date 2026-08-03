@@ -1,117 +1,92 @@
-# 🚀 Arun Sanna's Digital Portfolio
+# 🚀 Arun Sanna
 
-**Chief Architect | Cloud, DevSecOps, and AI Innovator**
+**Enterprise AI Architect | Multi-Cloud Platform Engineering | Production LLM Infrastructure**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square)](https://www.linkedin.com/in/arunchowdary/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square)](https://www.linkedin.com/in/arunsanna/)
+[![Website](https://img.shields.io/badge/Website-arunsanna.com-informational?style=flat-square)](https://arunsanna.com)
 [![GitHub](https://img.shields.io/badge/GitHub-arunsanna-informational?style=flat-square)](https://www.github.com/arunsanna)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ---
 
-## 👋 Hi there!
+## 👋 Hi there
 
-I'm **Arun Sanna** – a passionate architect with extensive experience in building and modernizing enterprise platforms. I specialize in cloud migrations, DevSecOps, and innovative AI/ML integrations that drive efficiency and transform legacy systems.
+I build and ship enterprise AI systems at production scale — LLM infrastructure, RAG platforms, multi-agent systems, and multi-cloud Kubernetes platforms serving millions of users.
 
----
-
-## 🚀 About Me
-
-- **Experience:** Led critical projects for organizations such as the Department of Defense (DoD) and the Centers for Medicare & Medicaid Services (CMS).
-- **Expertise:** AWS, Azure, GCP, Kubernetes, Terraform, and cutting-edge AI/ML frameworks.
-- **Highlights:**
-  - Architected secure, highly available systems.
-  - Pioneered rapid, mission-critical deployments.
-  - Built and led high-performing teams delivering measurable results.
-  - Integrated AI-powered solutions that streamline workflows and enhance machine learning capabilities.
+Over 12 years across financial services (Citibank, PCI-DSS payment infrastructure), retail (McDonald's, Chick-fil-A), healthcare, and highly regulated enterprise environments. I take complex, high-stakes systems from concept to production fast, with security and compliance built in from day one.
 
 ---
 
-## 💻 Projects & Portfolio
+## 🔬 Current Focus
 
-
-### Project: Enterprise Platform Transformation
-**Goal:**
-- Lead cross-functional teams to deliver high-impact solutions for the **Department of Defense (DoD)** and the **Centers for Medicare & Medicaid Services (CMS)**.
-
-**Expanded Context:**
-- **Department of Defense (DoD):**
-  Tasked with national security and military operations, the DoD requires robust, secure, and scalable systems to support mission-critical applications—from defense strategies to emergency response operations. [Learn more](https://p1.dso.mil) and [Partybus](https://p1.dso.mil/partybus)
-- **Centers for Medicare & Medicaid Services (CMS):**
-  Responsible for administering major federal healthcare programs, CMS needs efficient, secure platforms to manage and modernize services for millions of beneficiaries, ensuring both compliance and rapid deployment.
-
-**Outcomes:**
-- Pioneered rapid, mission-critical deployments during high-stakes operations.
-- Modernized legacy systems, building robust, secure platforms for large-scale applications.
-
-**Numbers:**
-- Coordinated efforts that supported the evacuation of **120,000+ individuals** during Operation Allies Refuge.
-- Migrated **50+ microservices** within **90 days**.
-- Boosted team efficiency by **50%**.
-
----
-### Project: Cloud Modernization
-**Goal:**
-- Automate and modernize cloud infrastructure to create scalable, secure environments.
-- Build Rapid Modernization plans
-
-**Outcomes:**
-- Established robust systems using Terraform, AWS CDK, and Kubernetes.
-- Enhanced system uptime and reliability while reducing deployment times.
-
-**Numbers:**
-- Transitioned **300+ enterprise applications**.
-- Achieved **99.99% uptime**.
-- Reduced operational costs by **45%**.
+- **Production AI:** Vision-LLM document processing pipelines (95% faster, 99.5% accuracy), Gemini-on-Vertex AI advisory applications, RAG systems, multi-agent platforms
+- **MCP Ecosystem:** Building MCP servers (aws-sage-mcp, gemini-image MCP) and agent security tooling (AgentMesh-Bench: 60,000+ adversarial attacks)
+- **Multi-Cloud Platforms:** Kubernetes at 20,000+ container scale across AWS, Google Cloud, and Azure
+- **AI Security Research:** Published in peer-reviewed journals (JCSTS) and IEEE CLOUD 2026 on AI agent supply-chain security
 
 ---
 
-### Project: AI-Driven DevSecOps & ML Integration
-**Goal:**
-- Integrate AI and machine learning to drive automation, enhance security, and optimize CI/CD pipelines.
+## 💻 Notable Projects
 
-**Outcomes:**
-- Deployed AI-powered automation, including large language model (LLM) deployments, to support data scientists in real-time inference and training.
-- Streamlined operational workflows with AI-driven analytics and automated compliance checks.
-- Enabled high-performance machine learning pipelines on NVIDIA GPU clusters.
+### Enterprise Gemini AI Advisory Application
+Sole architect and builder of an enterprise Gemini-on-Vertex AI application serving 500+ program teams. Reduced a 30-day cross-functional review process to under 5 minutes. Prototype to production in under 60 days.
 
-**Numbers:**
-- Saved **25+ hours** of manual work per week.
-- Accelerated deployment frequency from **months to days**.
-- Reduced manual compliance efforts by **70%**.
-- Enhanced ML training efficiency, contributing to a **30% improvement** in overall system performance.
+### Production Vision-LLM Document Processing
+Built AI document processing pipeline using vision LLMs — 95% timeline reduction, 99.5% accuracy, handling handwriting and rotated documents. MVP to production in under 60 days.
+
+### Provider-Fraud Detection (Award-Winning)
+91.34% blind provider-fraud detection across 33,000+ providers using behavioral signals and Neo4j evidence graphs. Won 2nd place at a national hackathon.
+
+### Enterprise Kubernetes Platform (20K+ Containers)
+Creator and lead architect of the largest enterprise Kubernetes platform-as-a-Service — 20,000+ containers across 20 clusters, 150+ teams, 700+ applications, 100% uptime, zero breaches. Software Factory pattern with 50+ Terraform modules and 50+ Helm charts.
+
+### Switchboard — Multi-Agent Platform
+Production multi-agent platform orchestrating Claude, Codex, Gemini, and Copilot for native iOS, macOS, and web clients. Single gateway, PTY shells, tasks, meetings, tracing.
+
+### Commercial Cloud Modernization (Fortune 500)
+Cloud solutions architect for Citibank (PCI-DSS, fraud detection, real-time event streaming), McDonald's, Chick-fil-A, American Heart Association (HIPAA), Ditech Mortgage, and Ellucian. 25% operating cost reduction, 60% fewer production risk alerts.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Container Orchestration:** Kubernetes (EKS, GKE, AKS)
-- **Infrastructure as Code:** Terraform, AWS CDK, OpenTofu
-- **CI/CD & Automation:** Jenkins, GitLab CI, ArgoCD
-- **AI/ML:** NVIDIA GPU Workloads, TensorFlow, PyTorch, LangChain, Large Language Models (LLMs)
-- **Security & Compliance:** DevSecOps, Zero Trust, FedRAMP, SOC2, ISO 27001
+- **AI/ML:** Large Language Models (LLMs), RAG, Vertex AI, Gemini, NVIDIA GPU/CUDA, Multi-Agent Systems, MCP
+- **Cloud:** AWS, Google Cloud (GKE, Anthos, Vertex AI), Azure
+- **Kubernetes:** EKS, GKE, AKS, Helm, ArgoCD, Istio
+- **Infrastructure as Code:** Terraform, OpenTofu
+- **AI Security:** Agent supply-chain security, adversarial attack evaluation, Zero Trust
+- **Languages:** Python, Go, TypeScript
+- **Data:** PostgreSQL, Neo4j, Snowflake, Databricks, BigQuery
+- **Observability:** Grafana, Prometheus, Dynatrace, Splunk
+
+---
+
+## 📝 Publications & Research
+
+- **Cross-LLM Generalization of Behavioral Backdoor Detection in AI Agent Supply Chains** — JCSTS (peer-reviewed), [arXiv:2511.19874](https://arxiv.org/abs/2511.19874)
+- **Infrastructure-Layer Attack Surface Reduction for MCP-Based AI Agents** — InnoAI 2026
+- **Detecting False Assurance in Cloud Control Inheritance** — IEEE CLOUD 2026 (Regular Full Paper)
+- Multiple trade publications on DevOps.com and Techstrong.ai
 
 ---
 
 ## 🏆 Certifications
 
-- **Certified Kubernetes Administrator**
-- **NVIDIA Certified AI Infrastructure and Operations**
-- **AWS Certified Solutions Architect Professional**
-- **Google Cloud Certified Professional Architect**
-- **Azure Certified Solutions Architect Expert**
-- **IBM Certified Associate Developer, WebSphere**
-- **Microsoft Certified Technology Specialist**
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect Professional
+- Google Cloud Professional Cloud Architect
+- Azure Solutions Architect Expert
+- NVIDIA Certified AI Infrastructure Specialist
+- Palantir Certified Foundry Expert
 
 ---
 
 ## 📫 Let's Connect
 
-I’m always excited to chat about tech innovations and collaboration opportunities.
-- **Email:** [arun.sanna@outlook.com](mailto:arun.sanna@outlook.com)
-- **LinkedIn:** [Arun Chowdary](https://www.linkedin.com/in/arunchowdary/)
+- **Email:** [arun.sanna@ieee.org](mailto:arun.sanna@ieee.org)
+- **LinkedIn:** [arunsanna](https://www.linkedin.com/in/arunsanna/)
+- **Website:** [arunsanna.com](https://arunsanna.com)
 - **GitHub:** [arunsanna](https://www.github.com/arunsanna)
 
 ---
 
-*Crafted with passion and innovation.*
+*Building AI systems that ship.*
